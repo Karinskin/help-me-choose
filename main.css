@@ -32,4 +32,11 @@ input {
 .addOption {
   margin-top: 10px;
   background-color: red;
+  background-image: linear-gradient(blue, purple);  border-radius: 12px;
+  color: white;
+  padding: 10px;
+}
+
+.img {
+  margin-top: 20px;
 }
