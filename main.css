@@ -4,7 +4,6 @@ body {
   justify-content: center;
   align-items: center;
   margin-top: 150px;
-  background-image: linear-gradient(blue, purple);
 }
 
 h1 {
@@ -31,7 +30,6 @@ input {
 
 .addOption {
   margin-top: 10px;
-  background-color: red;
   background-image: linear-gradient(blue, purple);  border-radius: 12px;
   color: white;
   padding: 10px;
