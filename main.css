@@ -5,6 +5,11 @@ body {
   align-items: center;
   margin-top: 150px;
 }
+.place {
+  background-color: #336699;
+}
+.place.papaya {background-color: #FFEFD5;
+}
 
 h1 {
   font-weight: lighter;
