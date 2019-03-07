@@ -43,3 +43,11 @@ input {
 .img {
   margin-top: 20px;
 }
+.resultSection {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+
+}
