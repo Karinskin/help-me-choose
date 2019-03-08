@@ -51,3 +51,9 @@ input {
   font-size: 35px;
 
 }
+
+.submit{
+  border-radius: 12px;
+  color: green;
+  padding: 10px;
+}
